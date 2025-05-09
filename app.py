@@ -84,3 +84,4 @@ elif choice == "Add New Recipe":
             st.success(f"Recipe '{name}' added successfully!")
         else:
             st.error("Please fill in all required fields.")
+            
