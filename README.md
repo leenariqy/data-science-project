@@ -9,17 +9,8 @@ A user-friendly Streamlit app to search, filter, and add your favorite recipes!
 - 🧪 Filter by difficulty, time, and rating
 - ➕ Add new recipes
 
-## How to Run
+> **Made for Data Science Project**  
+> **Leen Fahed Alariqy – Student ID: 20240763**
 
-1. Clone this repo or download the ZIP
-2. Run `pip install -r requirements.txt`
-3. Launch with `streamlit run app.py`
-
-## Deployment
-
-Use [Streamlit Cloud](https://streamlit.io/cloud) to deploy:
-- Upload all files to a GitHub repo
-- Connect your repo in Streamlit Cloud
-- Set `app.py` as the entry point
 
 Enjoy cooking! 👩‍🍳👨‍🍳
