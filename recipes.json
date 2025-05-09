@@ -1,0 +1,38 @@
+{
+    "Spaghetti Carbonara": {
+        "Cuisine": "Italian",
+        "Ingredients": [
+            "Pasta",
+            "Eggs",
+            "Cheese",
+            "Bacon"
+        ],
+        "Prep Time": 20,
+        "Difficulty": "Medium",
+        "Rating": 4.5
+    },
+    "Chicken Tikka Masala": {
+        "Cuisine": "Indian",
+        "Ingredients": [
+            "Chicken",
+            "Yogurt",
+            "Spices",
+            "Tomato Sauce"
+        ],
+        "Prep Time": 45,
+        "Difficulty": "Hard",
+        "Rating": 4.8
+    },
+    "Avocado Toast": {
+        "Cuisine": "American",
+        "Ingredients": [
+            "Bread",
+            "Avocado",
+            "Salt",
+            "Pepper"
+        ],
+        "Prep Time": 5,
+        "Difficulty": "Easy",
+        "Rating": 3.7
+    }
+}
