@@ -2,7 +2,7 @@
 
 A user-friendly Streamlit app to search, filter, and add your favorite recipes!
 
-## Features
+##Features
 
 - 🌍 Get cuisine-based recommendations
 - 🔍 Search recipes by name
